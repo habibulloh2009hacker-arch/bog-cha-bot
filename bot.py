@@ -1,4 +1,4 @@
-bot.py
+
 import telebot
 
 # Bu yerga tokeningizni yozing
